@@ -11,7 +11,8 @@ Best Practices in Modern Java Development: Demonstrating industry-standard pract
 
 How to Get Started:
 
-Clone the Repository: git clone https://github.com/yourusername/your-repo-name.git
+Clone the Repository:
+
 Navigate to the Project Directory: cd your-repo-name
 Build the Project: mvn clean install or ./mvnw clean install
 Run the Application: mvn spring-boot:run or ./mvnw spring-boot:run
